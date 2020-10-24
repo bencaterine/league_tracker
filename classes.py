@@ -1,4 +1,3 @@
-"hello"
 class Team:
     # a Team includes a team's id (given by the program), name, and performance
     # information, such as wins, for, and points
